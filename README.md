@@ -62,7 +62,9 @@ Built with 💻 Python, 🧠 MobileNetV2 (Pretrained Model), and 🔢 Pandas —
 
 ---
 
-## [Project Output](output.png)
+## [Project Output](images/output.png)
+
+---
 
 ## ✨ About Me
 I’m Eshaal, an AI student passionate about solving real-world problems with technology. This is one of my first hands-on AI projects, and I’m so excited to learn more! 🚀
