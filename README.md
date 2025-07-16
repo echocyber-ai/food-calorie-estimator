@@ -53,6 +53,15 @@ Built with 💻 Python, 🧠 MobileNetV2 (Pretrained Model), and 🔢 Pandas —
 
 ---
 
+## ⚠️ Limitations
+
+- The current model (MobileNetV2) is pre-trained on the *ImageNet* dataset, which contains general object classes, not specifically food.
+- As a result, the model may misclassify certain foods (e.g., predicting "eggnog" instead of "rice bowl").
+- Calorie information is matched based on the model's top prediction and may not always reflect the actual food.
+- A future version of this project may use a *food-specific model* like one trained on the *Food-101* dataset to improve accuracy and prediction quality.
+
+---
+
 ## ✨ About Me
 I’m Eshaal, an AI student passionate about solving real-world problems with technology. This is one of my first hands-on AI projects, and I’m so excited to learn more! 🚀
 
