@@ -37,12 +37,6 @@ Built with 💻 Python, 🧠 MobileNetV2 (Pretrained Model), and 🔢 Pandas —
 
 ---
 
-## 📸 Screenshot
-(Insert a screenshot of your Colab prediction output here)  
-You can take a screenshot, crop it, and upload it to GitHub later.
-
----
-
 ## 💡 Future Ideas
 - Use a custom-trained food classifier
 - Turn it into a web or mobile app
