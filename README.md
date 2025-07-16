@@ -45,6 +45,14 @@ Built with 💻 Python, 🧠 MobileNetV2 (Pretrained Model), and 🔢 Pandas —
 
 ---
 
+## 🧪 How to Run
+1. Open food_calorie_estimator.ipynb in Google Colab  
+2. Run all cells (Shift + Enter or Runtime > Run all)  
+3. Upload any food image when prompted  
+4. See the top 3 predictions and estimated calories!
+
+---
+
 ## ✨ About Me
 I’m Eshaal, an AI student passionate about solving real-world problems with technology. This is one of my first hands-on AI projects, and I’m so excited to learn more! 🚀
 
